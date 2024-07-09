@@ -1,0 +1,8 @@
+nama_buah = str(input("Masukkan Nama Buah : "))
+jumlah = int(input("Masukkan Jumlah : "))
+harga = float(input("Masukkan Harga : "))
+ketersediaan = bool(int(input("Masukkan Ketersediaan : ")))
+print(nama_buah)
+print(jumlah)
+print(harga)
+print(ketersediaan)
